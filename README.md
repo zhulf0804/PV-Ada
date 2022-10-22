@@ -2,6 +2,11 @@
 
 This repository contains PyTorch implementation for **[PV-Ada: Point-Voxel Adaptive Feature Abstraction for Robust Point Cloud Classification]()**.
 
+## News
+
+- **2022-09** Our solution based on PV-Ada won **the second place** in **ModelNet-C classification track** of [PointCloud-C Challenge 2022 (ECCV Workshop 2022)](https://pointcloud-c.github.io/competition.html
+) .
+
 ## Dataset
 
 - ModelNet40 [[download](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip)]
