@@ -1,9 +1,11 @@
 # PV-Ada: Point-Voxel Adaptive Feature Abstraction for Robust Point Cloud Classification
 
-This repository contains PyTorch implementation for **[PV-Ada: Point-Voxel Adaptive Feature Abstraction for Robust Point Cloud Classification]()**.
+This repository contains PyTorch implementation for **[PV-Ada: Point-Voxel Adaptive Feature Abstraction for Robust Point Cloud Classification](https://arxiv.org/pdf/2210.15514)**.
 
 ## News
 
+- **2022-10** PV-Ada (technical report) is released on [arXiv](https://arxiv.org/abs/2210.15514).
+- **2022-10** A 5-minute [presentation](https://github.com/zhulf0804/PV-Ada/tree/main/logs/PV-Ada-Report.pdf) is given in ECCV'22 Workshop on [Sensing, Understanding and Synthesizing Humans](https://sense-human.github.io). 
 - **2022-09** Our solution based on PV-Ada won **the second place** in **ModelNet-C classification track** of [PointCloud-C Challenge 2022 (ECCV Workshop 2022)](https://pointcloud-c.github.io/competition.html
 ) .
 
